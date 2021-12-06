@@ -10,7 +10,7 @@ const Login = () => {
     return (
         <div id="login-page">
             <div id="login-card">
-                <div id="heading">Welcome to WeChat!</div>
+                <div id="heading">Welcome to LetsChat!</div>
                 <br/>
                 {/* <div className="login-button google" onClick={() => auth.signInWithRedirect(new firebase.auth.GoogleAuthProvider())}>
                     <GoogleOutlined /> Sign in with Google
