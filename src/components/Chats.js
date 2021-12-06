@@ -63,7 +63,7 @@ const Chats = () =>{
         <div className="chats-page">
             <div className="nav-bar">
                 <div className="logo-tab">
-                    WeChat
+                    LetsChat
                 </div>
                 {/* <div>className="logout-tab" onClick={handleLogout}> */}
                 <div>
